@@ -1,0 +1,9 @@
+G:\C# 2024\Lecture Demos\Storage\Storage\bin\Debug\Storage.exe.config
+G:\C# 2024\Lecture Demos\Storage\Storage\bin\Debug\Storage.exe
+G:\C# 2024\Lecture Demos\Storage\Storage\bin\Debug\Storage.pdb
+G:\C# 2024\Lecture Demos\Storage\Storage\obj\Debug\Storage.csprojResolveAssemblyReference.cache
+G:\C# 2024\Lecture Demos\Storage\Storage\obj\Debug\Storage.FrmStorage.resources
+G:\C# 2024\Lecture Demos\Storage\Storage\obj\Debug\Storage.Properties.Resources.resources
+G:\C# 2024\Lecture Demos\Storage\Storage\obj\Debug\Storage.csproj.GenerateResource.Cache
+G:\C# 2024\Lecture Demos\Storage\Storage\obj\Debug\Storage.exe
+G:\C# 2024\Lecture Demos\Storage\Storage\obj\Debug\Storage.pdb
